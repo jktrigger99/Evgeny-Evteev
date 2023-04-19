@@ -1,6 +1,6 @@
 ## Hello! I am Evgeny
 
-### I've completed the course "QA Engineer from scratch. Web/Mobile, Postman, SQL, Git, Bash" by Artsiom Rusau and now I am looking for a job as a QA Engineer 
+### I've completed the course "QA Engineer from scratch. Web/Mobile, Postman, SQL, Git, Bash" by Artsiom Rusau, and now I am looking for a job as a QA Engineer 
 ### You can find my CV via this [link](https://drive.google.com/file/d/1pqeklpT477J1EUMUYJprsvP0ECVO_6cC/view?usp=share_link)
 
 ### Language and Tools
