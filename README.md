@@ -7,7 +7,7 @@
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=417399)
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=2277E7)
-![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=EEB715)
+![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=D7382C)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=B6D2E3)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Azure%20Devops-090909?style=for-the-badge&logo=azuredevops&logoColor=0070CD)
@@ -18,7 +18,7 @@
 ### Testing Documentation
 
 - [Check Lists](https://github.com/jktrigger99/CheckLists)
-- [Test-Cases](https://github.com/jktrigger99/TestCases)
+- [Test Cases](https://github.com/jktrigger99/TestCases)
 - [Bug Reports](https://github.com/jktrigger99/BugReports)
 - [Postman Collections](https://github.com/jktrigger99/Postman)
 - [SQL Queries](https://github.com/jktrigger99/SQL)
