@@ -1,6 +1,6 @@
-## Hello! I'm Evgeny
+## Hello! I am Evgeny
 
-### I am looking for a job as a QA Engineer 
+### I've completed the course "QA Engineer from scratch. Web/Mobile, Postman, SQL, Git, Bash" by Artsiom Rusau and now I am looking for a job as a QA Engineer 
 ### You can find my CV via this [link](https://drive.google.com/file/d/1pqeklpT477J1EUMUYJprsvP0ECVO_6cC/view?usp=share_link)
 
 ### Language and Tools
@@ -30,4 +30,8 @@
 ### Contact Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/jktrigger99)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/evgenyev/)
+
+<a href="url">
+	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
