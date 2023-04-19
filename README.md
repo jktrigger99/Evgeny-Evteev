@@ -32,7 +32,7 @@
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/evgenyev/)
 
 <a href="url">
-	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	<img src="https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 <a href="url">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
