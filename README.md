@@ -5,14 +5,14 @@
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Postman-A9A9A9?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=417399)
-![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=2277E7)
-![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=D7382C)
-![Header](https://img.shields.io/badge/Charles%20Proxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=B6D2E3)
-![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
-![Header](https://img.shields.io/badge/Azure%20Devops-090909?style=for-the-badge&logo=azuredevops&logoColor=0070CD)
-![Header](https://img.shields.io/badge/Android%20Studio-090909?style=for-the-badge&logo=androidstudio&logoColor=7FAE46)
-![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=F2D14C)
+![Header](https://img.shields.io/badge/MySQL-A9A9A9?style=for-the-badge&logo=mysql&logoColor=417399)
+![Header](https://img.shields.io/badge/Jira-A9A9A9?style=for-the-badge&logo=jira&logoColor=2277E7)
+![Header](https://img.shields.io/badge/DevTools-A9A9A9?style=for-the-badge&logo=googlechrome&logoColor=D7382C)
+![Header](https://img.shields.io/badge/Charles%20Proxy-A9A9A9?style=for-the-badge&logo=charlesproxy&logoColor=B6D2E3)
+![Header](https://img.shields.io/badge/TestRail-A9A9A9?style=for-the-badge&logo=testrail&logoColor=71b556)
+![Header](https://img.shields.io/badge/Azure%20Devops-A9A9A9?style=for-the-badge&logo=azuredevops&logoColor=0070CD)
+![Header](https://img.shields.io/badge/Android%20Studio-A9A9A9?style=for-the-badge&logo=androidstudio&logoColor=7FAE46)
+![Header](https://img.shields.io/badge/Python-A9A9A9?style=for-the-badge&logo=python&logoColor=F2D14C)
 
 
 ### Testing Documentation
