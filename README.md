@@ -24,12 +24,10 @@
 - [Check Lists](https://github.com/jktrigger99/CheckLists)
 - [Test-Cases](https://github.com/jktrigger99/TestCases)
 - [Bug Reports](https://github.com/jktrigger99/BugReports)
-- [SQL Queries](https://github.com/jktrigger99/SQL)
 - [Postman Collections](https://github.com/jktrigger99/Postman)
+- [SQL Queries](https://github.com/jktrigger99/SQL)
 
 ### Contact Me
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/jktrigger99)
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/evgenyev/)
 
 <a href="https://t.me/jktrigger99">
 	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
