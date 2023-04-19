@@ -21,11 +21,11 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Check Lists](https://github.com/jktrigger99/CheckLists)
+- [Test-Cases](https://github.com/jktrigger99/TestCases)
+- [Bug Reports](https://github.com/jktrigger99/BugReports)
+- [SQL Queries](https://github.com/jktrigger99/SQL)
+- [Postman Collections](https://github.com/jktrigger99/Postman)
 
 ### Contact Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/jktrigger99)
