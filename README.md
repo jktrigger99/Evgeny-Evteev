@@ -11,7 +11,7 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=B6D2E3)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
 ![Header](https://img.shields.io/badge/AzureDevops-090909?style=for-the-badge&logo=azuredevops&logoColor=0074d0)
-![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=7FAE46)
+![Header](https://img.shields.io/badge/Android%20Studio-090909?style=for-the-badge&logo=androidstudio&logoColor=7FAE46)
 ![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=F2D14C)
 
 
