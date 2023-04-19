@@ -4,7 +4,7 @@
 ### You can find my CV via this [link](https://drive.google.com/file/d/1pqeklpT477J1EUMUYJprsvP0ECVO_6cC/view?usp=share_link)
 
 ### Language and Tools
-![Header](https://img.shields.io/badge/Postman-ADD8E6?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Header](https://img.shields.io/badge/Postman-A9A9A9?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=417399)
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=2277E7)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=D7382C)
