@@ -14,7 +14,8 @@ assignees: ''
 4. See error
 
 **Actual result:**
-
+Windows 11 Home 22H2
+Google Chrome Version 112.0.5615.138 (Official Build) (64-bit)
 
 **Expected result:**
 
