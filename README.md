@@ -18,7 +18,7 @@
 
 ### Testing Documentation and Other Artifacts:
 
-- [Check Lists](https://github.com/jktrigger99/CheckLists)
+- [Checklists](https://github.com/jktrigger99/CheckLists)
 - [Test Cases](https://github.com/jktrigger99/TestCases)
 - [Bug Reports](https://github.com/jktrigger99/BugReports)
 - [Postman Collections](https://github.com/jktrigger99/Postman)
