@@ -23,6 +23,7 @@
 - [Bug Reports](https://github.com/jktrigger99/BugReports)
 - [Postman Collections](https://github.com/jktrigger99/Postman)
 - [SQL Queries](https://github.com/jktrigger99/SQL)
+- [Прочее](https://github.com/jktrigger99/Other)
 
 ### Contact Me
 
