@@ -11,9 +11,11 @@
 ![Header](https://img.shields.io/badge/DevTools-A9A9A9?style=for-the-badge&logo=googlechrome&logoColor=D7382C)
 ![Header](https://img.shields.io/badge/Charles%20Proxy-A9A9A9?style=for-the-badge&logo=charlesproxy&logoColor=B6D2E3)
 ![Header](https://img.shields.io/badge/TestRail-A9A9A9?style=for-the-badge&logo=testrail&logoColor=71b556)
-![Header](https://img.shields.io/badge/Azure%20Devops-A9A9A9?style=for-the-badge&logo=azuredevops&logoColor=0070CD)
+![Header](https://img.shields.io/badge/Swagger-A9A9A9?style=for-the-badge&logo=swagger&logoColor=81E32C)
 ![Header](https://img.shields.io/badge/Android%20SDK-A9A9A9?style=for-the-badge&logo=androidstudio&logoColor=7FAE46)
+![Header](https://img.shields.io/badge/Git-A9A9A9?style=for-the-badge&logo=git&logoColor=E84D31)
 ![Header](https://img.shields.io/badge/Python-A9A9A9?style=for-the-badge&logo=python&logoColor=356894)
+![Header](https://img.shields.io/badge/HTML/CSS-A9A9A9?style=for-the-badge&logo=html5&logoColor=DD4B25)
 ![Header](https://img.shields.io/badge/MongoDB-A9A9A9?style=for-the-badge&logo=mongodb&logoColor=4FAA41)
 
 ### Testing Documentation and Other Artifacts:
@@ -23,7 +25,7 @@
 - [Bug Reports](https://github.com/jktrigger99/BugReports)
 - [Postman Collections](https://github.com/jktrigger99/Postman)
 - [SQL Queries](https://github.com/jktrigger99/SQL)
-- [Прочее](https://github.com/jktrigger99/Other)
+- [Other](https://github.com/jktrigger99/Other)
 
 ### Contact Me
 
