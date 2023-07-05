@@ -18,14 +18,15 @@
 ![Header](https://img.shields.io/badge/HTML/CSS-A9A9A9?style=for-the-badge&logo=html5&logoColor=DD4B25)
 ![Header](https://img.shields.io/badge/MongoDB-A9A9A9?style=for-the-badge&logo=mongodb&logoColor=4FAA41)
 
-### Testing Documentation and Other Artifacts:
+### Testing documentation and other artifacts:
 
 - [Checklists](https://github.com/jktrigger99/CheckLists)
-- [Test Cases](https://github.com/jktrigger99/TestCases)
-- [Bug Reports](https://github.com/jktrigger99/BugReports)
-- [Postman Collections](https://github.com/jktrigger99/Postman)
-- [SQL Queries](https://github.com/jktrigger99/SQL)
+- [Test cases](https://github.com/jktrigger99/TestCases)
+- [Bug reports](https://github.com/jktrigger99/BugReports)
+- [Postman collections](https://github.com/jktrigger99/Postman)
+- [SQL queries](https://github.com/jktrigger99/SQL)
 - [Other](https://github.com/jktrigger99/Other)
+- [Homeworks for QA Course](https://github.com/jktrigger99/VKsCourse)
 
 ### Contact Me
 
