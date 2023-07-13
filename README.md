@@ -28,6 +28,9 @@
 - [Other](https://github.com/jktrigger99/Other)
 - [Homeworks for QA Course](https://github.com/jktrigger99/VKsCourse)
 
+### Homework from Vadim Ksendzov's course:
+- [VKs Course](https://github.com/jktrigger99/VKsCourse)
+
 ### Contact Me
 
 <a href="https://t.me/jktrigger99">
