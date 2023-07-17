@@ -26,7 +26,6 @@
 - [Postman collections](https://github.com/jktrigger99/Postman)
 - [SQL queries](https://github.com/jktrigger99/SQL)
 - [Other](https://github.com/jktrigger99/Other)
-- [Homeworks for QA Course](https://github.com/jktrigger99/VKsCourse)
 
 ### Homework from Vadim Ksendzov's course:
 - [VKs Course](https://github.com/jktrigger99/VKsCourse)
